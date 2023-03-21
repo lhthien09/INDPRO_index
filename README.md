@@ -24,4 +24,4 @@ Variables:
 * x3, x4, x5: ???
 
 ## Results:
-The trained models & report can be found at: (Presentation)[https://github.com/lhthien09/INDPRO_index/blob/main/PWC_task_LyThien.pdf]
+The trained models & report can be found at: [Presentation](https://github.com/lhthien09/INDPRO_index/blob/main/PWC_task_LyThien.pdf)
