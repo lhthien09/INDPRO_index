@@ -17,6 +17,8 @@ team, just before his long-awaited winter holiday in a big hurry, prepared a dat
 and some other sample economic indices you may find useful INDPRO predictions. Your team manager asked you to summarize your approach in a short, 3-5
 slide presentation. He knows there's not much time left until the meeting, but he's suggested that we do in the first place, focus on presenting the model's effectiveness and dependencies between the variables it detected.
 
+![alt text](https://github.com/lhthien09/INDPRO_index/blob/main/Figures/INDPRO.png)
+
 Variables:
 * y: INDPRO
 * x1: MGASUSGULF
